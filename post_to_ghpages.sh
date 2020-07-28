@@ -10,7 +10,7 @@ mkdir public
 git worktree prune
 rm -rf .git/worktrees/public
 
-git add -u
+git add .
 git commit -m "Publishing to master"
 git push origin master
 
