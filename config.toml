@@ -1,4 +1,4 @@
-baseURL = "https://nofaild.github.io/blog/"
+baseURL = "https://nofailed.github.io/blog/"
 languageCode = "ko-kr"
 title = "My English"
 theme = "learn"
