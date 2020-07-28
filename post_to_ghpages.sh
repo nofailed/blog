@@ -2,6 +2,12 @@
 
 DIR=$(dirname "$0")
 
+echo "Deleting old publication"
+rm -rf public
+mkdir public
+git worktree prune
+rm -rf .git/worktrees/public
+
 git add -u && git commit -m "Publishing to master" && git push origin master
 
 if [[ $(git status -s) ]]
@@ -9,12 +15,6 @@ then
 	echo "The working directory is dirty. Please commit any pending changes."
 	exit 1;
 fi
-
-echo "Deleting old publication"
-rm -rf public
-mkdir public
-git worktree prune
-rm -rf .git/worktrees/public
 
 echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
@@ -27,4 +27,3 @@ hugo -v
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages
-cd .. && rm -rf public
