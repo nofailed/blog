@@ -1,7 +1,7 @@
 +++
 title = "글쓰기 템플릿"
 date = 2020-07-27T23:46:43+09:00
-weight = 0
+weight = 9
 +++
 
  grammar | example | try |
