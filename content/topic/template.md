@@ -41,9 +41,14 @@ weight = 0
 2형식 - 감각 | This cookie tastes good. |
 3형식 | I watched a movie with Anna. |
 4형식 | My mother bought me a shirt. |
-5형식 | My bad grade made my parents angry. |
+5형식 - (명사/형용사) | Her friends call her "Little Susie." |
+5형식 - (to부정사) | I want you to forgive me. |
+5형식 - 지각동사 | She heard her son scream in the kitchen. |
+5형식 - 사역동사 | Karen let her friend use her camera. |
 to부정사 - 명사적 용법 | To keep a promise is important. |
+to부정사 - 명사적 용법(의문사+to부정사) | We didn't know what to do next. |
 to부정사 - 형용사적 용법 | Let's order something to drink. |
+to부정사 - 형용사적 용법(be+to부정사)</br>예정, 의무, 가능, 운명, 의도 | She is to leave this country next week. |
 to부정사 - 부사적 용법 | I went to the flower shop to buy some flowers. |
 
 
