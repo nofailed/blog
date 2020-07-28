@@ -5,6 +5,8 @@ categories = "영어 글쓰기"
 weight = 5
 +++
 
+# 템플릿
+
  grammar | example | try |
 ---|---|---|
 1형식 |  The dog sleeps on the sofa . |
@@ -28,3 +30,11 @@ too 형용사/부사 to부정사 | Roy is too tired to go to the party. |
 so + 형용사/부사 + that + 주어 + can't/couldn't + 동사원형 | Roy is so tired that he can't go to the party. |
 형용사/부사 + enough + to부정사 | The boy is tall enough to reach the top shelf. |
 so + 형용사/부사 + that + 주어 + can/could + 동사원형 | The boy is so tall that he can reach the top shelf. |
+
+
+# Essay
+
+## Introduction
+
+South Korea has the world's lowest birth rate, according to a United Nations report released on last month.
+
