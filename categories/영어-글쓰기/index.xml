@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>영어 글쓰기 on My English</title>
-    <link>https://nofailed.github.io/blog/topic/</link>
+    <link>https://nofailed.github.io/blog/categories/%EC%98%81%EC%96%B4-%EA%B8%80%EC%93%B0%EA%B8%B0/</link>
     <description>Recent content in 영어 글쓰기 on My English</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 27 Jul 2020 23:46:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 23:47:35 +0900</lastBuildDate>
     
-	<atom:link href="https://nofailed.github.io/blog/topic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nofailed.github.io/blog/categories/%EC%98%81%EC%96%B4-%EA%B8%80%EC%93%B0%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Mon, 27 Jul 2020 23:47:35 +0900</pubDate>
       
       <guid>https://nofailed.github.io/blog/topic/027_birth_rate_in_korea/</guid>
-      <description>grammar example try     1형식 The dog sleeps on the sofa .    2형식 - 상태 He is a firefighter.    2형식 - 변화 Paul became the president.    2형식 - 감각 This cookie tastes good.    3형식 I watched a movie with Anna.    4형식 My mother bought me a shirt.    5형식 - (명사/형용사) Her friends call her &amp;ldquo;Little Susie.</description>
-    </item>
-    
-    <item>
-      <title>글쓰기 템플릿</title>
-      <link>https://nofailed.github.io/blog/topic/template/</link>
-      <pubDate>Mon, 27 Jul 2020 23:46:43 +0900</pubDate>
-      
-      <guid>https://nofailed.github.io/blog/topic/template/</guid>
       <description>grammar example try     1형식 The dog sleeps on the sofa .    2형식 - 상태 He is a firefighter.    2형식 - 변화 Paul became the president.    2형식 - 감각 This cookie tastes good.    3형식 I watched a movie with Anna.    4형식 My mother bought me a shirt.    5형식 - (명사/형용사) Her friends call her &amp;ldquo;Little Susie.</description>
     </item>
     
