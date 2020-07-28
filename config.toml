@@ -1,7 +1,0 @@
-#baseURL = "https://github.com/nofailed/blog"
-languageCode = "ko-kr"
-title = "My English"
-theme = "learn"
-
-[params]
-themeVariant = "red"
