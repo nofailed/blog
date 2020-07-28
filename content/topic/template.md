@@ -33,8 +33,8 @@ weight = 0
 
 ## check 2
 
-| grammar | example | try |
-|---|---|---|
+ grammar | example | try |
+---|---|---|
 1형식 |  The dog sleeps on the sofa . |
 2형식 - 상태 | He is a firefighter. |
 2형식 - 변화 | Paul became the president. |
@@ -48,7 +48,5 @@ weight = 0
 to부정사 - 명사적 용법 | To keep a promise is important. |
 to부정사 - 명사적 용법(의문사+to부정사) | We didn't know what to do next. |
 to부정사 - 형용사적 용법 | Let's order something to drink. |
-to부정사 - 형용사적 용법(be+to부정사)</br>예정, 의무, 가능, 운명, 의도 | She is to leave this country next week. |
-to부정사 - 부사적 용법 | I went to the flower shop to buy some flowers. |
-
-
+to부정사 - 형용사적 용법(be+to부정사)</br> 예정, 의무, 가능, 운명, 의도 | She is to leave this country next week. |
+to부정사 - 부사적 용법</br> 목적, 감정의 원인, 결과, 판단의 근거, 형용사 수식 | I went to the flower shop to buy some flowers. |
