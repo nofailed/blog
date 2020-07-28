@@ -33,8 +33,17 @@ weight = 0
 
 ## check 2
 
-| grammar | example |
-|---|---|
-1 형식 | 
-2 형식 |
+| grammar | example | try |
+|---|---|---|
+1형식 |  The dog sleeps on the sofa . |
+2형식 - 상태 | He is a firefighter. |
+2형식 - 변화 | Paul became the president. |
+2형식 - 감각 | This cookie tastes good. |
+3형식 | I watched a movie with Anna. |
+4형식 | My mother bought me a shirt. |
+5형식 | My bad grade made my parents angry. |
+to부정사 - 명사적 용법 | To keep a promise is important. |
+to부정사 - 형용사적 용법 | Let's order something to drink. |
+to부정사 - 부사적 용법 | I went to the flower shop to buy some flowers. |
+
 
