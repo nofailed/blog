@@ -2,13 +2,17 @@
 
 DIR=$(dirname "$0")
 
+set -x
+
 echo "Deleting old publication"
 rm -rf public
 mkdir public
 git worktree prune
 rm -rf .git/worktrees/public
 
-git add -u && git commit -m "Publishing to master" && git push origin master
+git add -u
+git commit -m "Publishing to master"
+git push origin master
 
 if [[ $(git status -s) ]]
 then
