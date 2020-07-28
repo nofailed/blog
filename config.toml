@@ -5,3 +5,7 @@ theme = "learn"
 
 [params]
 #themeVariant = "red"
+
+[markup]
+  [markup.blackFriday]
+    taskLists = true
