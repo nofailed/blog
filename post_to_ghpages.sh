@@ -33,3 +33,4 @@ hugo -v
 
 echo "Updating gh-pages branch"
 cd public && git add . && git commit -m "Publishing to gh-pages" && git push origin gh-pages
+cd .. && rm -rf public
