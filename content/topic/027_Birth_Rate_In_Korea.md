@@ -34,7 +34,20 @@ so + 형용사/부사 + that + 주어 + can/could + 동사원형 | The boy is so
 
 # Essay
 
-## Introduction
+## About Korea's low birth rate
 
-South Korea has the world's lowest birth rate, according to a United Nations report released on last month.
+The birthrate in Korea last year was the lowest 
+ever. The birthrate was 0.98, the lowest number 
+since birthrates were first recorded in 1970.
+Unfortunately, it's not different this year.
+According to a United Nations report released on last month, South Korea has the world's lowest birth rate again among 201 countries surveyed.
+The annual report by the U.N. Population Fund (UNFPA) found the fertility rate per woman in South Korea was only 1.1. This means that the average number of babies a woman will have during her childbearing years (1 5-49 years old) is only I. The general consensus is that the total fertility rate must be 2.1 to matintain a population. The reality 
+is that Korea falls half that number. The average birthrate for OECD countries is 1 .68. Korea is dead last among member nations. 
 
+## The impact of a low birth rate.
+
+Korea's low birthrate looms large as a future problem in the country. Korea's population will start to decline sooner rather than later. It was predicted that Korea's population would begin decreasing in 2028. But the birthrate is in a freefall, and the population is likely to start shrinking even sooner. The problem is that this could shake our economy and society to the core. The smaller working age population will reduce economic vitality. The aging population could cause welfare costs to snowball out of control. Social institutions like education and childcare benefits must all receicve an overhaul to raise the birthrate. It's a tough nut to crack. 
+
+## Conclusion
+
+Many experts point out the high cost of raising children, the double burden of performing basic household and childcare duties for working mothers as reasons for the decline in marriage and birth rates. Others believe that the key factors are the competitive society of South Korea, including its rigid education system and the labour market. In our opinion, the family and demographic policies must combine elimination of the factors that make people give up marriage and childbirth and respect of fundamental rights and freedoms of people with a view to overcoming socio-economic inequalities.
