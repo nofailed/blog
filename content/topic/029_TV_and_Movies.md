@@ -1,5 +1,5 @@
 +++
-title = "20201022"
+title = "TV and Movies"
 date = 2020-10-22T11:17:15Z
 weight = 5
 +++
@@ -10,7 +10,7 @@ A lot of people in modern society are hooked on TV. The idiot box has become a "
 
 Another problem is the tendency toward copycat behavior. We dress, talk, and behave in ways that we model after characters on TV and in the movies. This is especially worrisome since so many of these programs are excessively violent and sexually suggestive. Many legal experts believe that delinquency problems are made much worse by young people imitating what they see in the media.
 
-Some steps need to be take. First parents need to do a better job of policing their TV sets, not only in terms of what their children watch but also how much time they spend doing it. Second, parents and teachers must educate kids to develop a more conscious, critical attitude toward what they watch, instead of just absorbing it all like a sponge. Lastly, if you spend too much time for watching TV or watch TV aimlessly, you have to change your TV viewing habits first. Our children are mirrors, reflecting images of what happens around them. Leading by example how to watch TV beneficially would be the best practice and education for their kids.
+Some steps need to be take. First parents need to do a better job of policing their TV sets, not only in terms of what their children watch but also how much time they spend doing it. Second, parents and teachers must educate kids to develop a more conscious, critical attitude toward what they watch, instead of just absorbing it all like a sponge. Lastly, if you spend too much time for watching TV or watch TV aimlessly, you'd better change your TV viewing habits first. Our children are mirrors, reflecting images of what happens around them. Leading by example how to watch TV beneficially would be the best practice and education for their kids.
 
 ## check list
 
@@ -70,4 +70,20 @@ frankly speaking | |
 considering: ~을 감안하면 | |
 strictly speaking: 엄밀히 말해서 | |
 speaking of: ~ 이야기가 나왔으니 말인데 | |
+will vs be going to | We will visit her next week. I'm going to there. | 
+must not: ~해서는 안된다 | You must not smoke in this building. |
+don't have to: ~할 필요 없다 | You don't have to worry about it. |
+should: 하는것이 좋다(도덕적 의무/충고) | You should change our password more often. |
+be used to + (동)명사 | She is used to Korean culture. |
+may[might] + have + pp | Robert is not home now. He may have gone to see a movie. |
+must + have + pp | His team must have lost the game. |
+can't + have + pp | She can't have told us a lie. |
+should + have + pp | I should have chosen the carrot cake instead. |
+would rather | I would rather go to the beach than go hiking this weekend. |
+would rather not | I would rather not eat fried chicken for a while. |
+would(과거의 불규칙적습관) | Paul and I would play catch when we were young. |
+used to(과거의 규칙적습관,상태) | She used to drink too much cola every day. |
+will have pp(미래의 강조) | I will have lost two more kilograms by next month. |
+have + been + ing | Some professors have been arguing about it for years. |
+
 
