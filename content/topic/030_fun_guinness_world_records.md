@@ -12,23 +12,21 @@ With this essay, I would like to share the fun history of the book which perhaps
 
 # Body
 
-According to Wikipedia, Guinness Wold Records, known from its inception in 1955 until 2000 as The The Guinness Book of Records and in previous Unitied States editions as The Guinness Book of World Records, is a reference book published annually, listing world records both of human achievements and the extreames of the natural world. The brainchild of Sir Hugh Beaver, the book was co-founded by twin brothers Norris and Ross McWhirter in Fleet Street, London, in August 1954.
+According to Wikipedia, Guinness Wold Records, known from its inception in 1955 until 2000 as The The Guinness Book of Records and in previous Unitied States editions as The Guinness Book of World Records, is a reference book published annually, listing world records both of human achievements and the extremes of the natural world. The brainchild of Sir Hugh Beaver, the book was co-founded by twin brothers Norris and Ross McWhirter in Fleet Street, London, in August 1954.
 
-The book itself holds a world record, as the best-selling copyrighted book of all time. As of the 2020 edition, it is now in its 65th year of publication, published in 100 countries and 23 languages, and maintains over 53,000 records in its database. The international franchise has extended beyond print to include television series and museums. The popularity of the franchise has resulted in Guinness World Records becoming the primary intertional authority on the cataloguiring and verification of a huge number of world records. The organisation employs record adjudicators to verify the authenticity of the setting and breaking of records.
+The book itself holds a world record, as the best-selling copyrighted book of all time. As of the 2019 edition, it is now in its 64th year of publication, published in 100 countries and 23 languages, and maintains over 53,000 records in its database. The international franchise has extended beyond print to include television series and museums. The popularity of the franchise has resulted in Guinness World Records becoming the primary international authority on the cataloging and verification of a huge number of world records. The organization employs record adjudicators to verify the authenticity of the setting and breaking of records.
 
-Are you getting bored a little now? OK. there's a fun story how the book was published at the first.
+Are you getting bored a little now? There's a funny story about how the book was published at the first moment.
 
-On 10 November 1951, Sir Hugh Beaver, then the managing director of the Guinness Breweries, went on a shooting party in the North Slob, by the River Slaney in County Wexford, Ireland. After missing a shot at a golden plover, he became involved in an argument over which was the fastest game bird in Europe, the golden plover or the red grouse - it is the plover. That evening at Castlebridge House, he realised that it was impossible to confirm in reference books whether or not the golden plover was Europe's fastest game bird. Beaver knew that there must have been numerous other questions debated nightly in pubs throughout Ireland and abroad, but there was no book in the world with which to settle arguments about records. He realised then that a book supplying the answers to this sort of question might prove successful.
+On 10 November 1951, Sir Hugh Beaver, then the managing director of the Guinness Breweries, went on a shooting party in the North Slob, by the River Slaney in County Wexford, Ireland. After missing a shot at a golden plover, he became involved in an argument over which was the fastest game bird in Europe, the golden plover or the red grouse.Even not catching any of the birds, he didn't want to be teased by his friends. Because he totally believed that the golden plover missed was the fastest game bird in Europe and wanted to prove it.
+That evening at Castlebridge House, he realized that it was impossible to confirm in reference books whether or not the golden plover was Europe's fastest game bird. Beaver knew that there must have been numerous other questions debated nightly in pubs throughout Ireland and abroad, but there was no book in the world with which to settle arguments about records. He realized then that a book supplying the answers to this sort of question might prove successful.
 
 Beaver's idea became reality when Guinness employee Christopher Chataway recommended university friends Norris and Ross McWhirter, who had been running a fact-finding agency in London. The twin brothers were commissioned to compile what became The Guinness Book of Records, in August 1954. A thousand copies were printed and given away.
 
-After the founding of The Guinness Book of Records office at 107 Fleet Street, London, the first 198-page edition was bound on 27 August 1955 and went to the top of the British best seller lists by Christmas. The following year, it launched in the US, and sold 70,000 copies. Since then, Guinness World Records has gone on to become a record breaker in its own right. With sales of more than 100 million copies in 100 countries and 37 languages, Guinness World Records is the world's best selling copyrighted book.
-
-Because the book became a surprise hit, many further editions were printed, eventually settling into a pattern of one revision a year, published in September/October, in time for Christmas. The McWhirters continued to compile it for many years. Both brothers had an encyclopedic memory; on the TV series Record Breakers, based upon the book, they would take questions posed by children in the audience on various world records and were able to give the correct answer. Ross McWhirter was assassinated by the Provisional Irish Republican Army in 1975. Following Ross's assassination, the feature in the show where questions about records posed by children were answered was called Norris on the Spot.
-
-Guinness Superlatives, later Guinness World Records Limited, was formed in 1954 to publish the first book. Sterling Publishing owned the rights to the Guinness book in the US for decades. The group was owned by Guinness PLC and subsequently Diageo until 2001, when it was purchased by Gullane Entertainment for $65 million. Gullane was itself purchased by HIT Entertainment in 2002. In 2006, Apax Partners purchased HIT and subsequently sold Guinness World Records in early 2008 to the Jim Pattison Group, the parent company of Ripley Entertainment, which is licensed to operate Guinness World Records' Attractions. With offices in New York City and Tokyo, Guinness World Records' global headquarters remain in London, while its museum attractions are based at Ripley headquarters in Orlando, Florida, US.
-
 # Closing
+
+# New words
+- brainchild : Someone's brainchild is an idea or invention that they have thought up or created.
 
 ## check list
 
@@ -103,5 +101,9 @@ would(과거의 불규칙적습관) | Paul and I would play catch when we were y
 used to(과거의 규칙적습관,상태) | She used to drink too much cola every day. |
 will have pp(미래의 강조) | I will have lost two more kilograms by next month. |
 have + been + ing | Some professors have been arguing about it for years. |
+Each of + (plural) | Each of the students has a name tag. |
+All of + (singular/plural) | All of our money was stolen.<br>All of our money was stolen.|
+Every + (singular) | Every seat is empty. |
+Some, (the) others | Some like animals, and others don't.<br>There is fruit in this box. Some are apples, and the others are oranges.|
 
 
