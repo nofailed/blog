@@ -6,7 +6,11 @@
     <description>Recent content in 일기 on My English</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 12 Aug 2020 20:59:25 +0900</lastBuildDate><atom:link href="https://nofailed.github.io/blog/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 20:59:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://nofailed.github.io/blog/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>20201026</title>
       <link>https://nofailed.github.io/blog/diary/20201026/</link>
